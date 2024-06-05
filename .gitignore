@@ -1,0 +1,3 @@
+# Project exclude paths
+/demo_01/target/
+/demo_02_rabbitmq/target/
