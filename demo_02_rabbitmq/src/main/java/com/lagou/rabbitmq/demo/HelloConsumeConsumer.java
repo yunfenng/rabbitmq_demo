@@ -7,7 +7,7 @@ import java.io.IOException;
 public class HelloConsumeConsumer {
     public static void main(String[] args) throws Exception {
         ConnectionFactory factory = new ConnectionFactory();
-        factory.setUri("amqp://root:123456@47.103.155.255:5672/%2f");
+        factory.setUri("amqp://root:123456@服务器地址:5672/%2f");
 
         final Connection connection = factory.newConnection();
         final Channel channel = connection.createChannel();

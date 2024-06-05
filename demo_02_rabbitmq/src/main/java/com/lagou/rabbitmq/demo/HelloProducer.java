@@ -22,7 +22,7 @@ public class HelloProducer {
 //        factory.setSharedExecutor(executor);
 
         // 设置主机名 hostname
-        factory.setHost("47.103.155.255");
+        factory.setHost("服务器地址");
         // 设置虚拟主机名称  /在url中的转义字符 %2f
         factory.setVirtualHost("/");
         // 用户名
