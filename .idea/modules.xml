@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/demo_01/demo_01.iml" filepath="$PROJECT_DIR$/demo_01/demo_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_02_rabbitmq/demo_02_rabbitmq.iml" filepath="$PROJECT_DIR$/demo_02_rabbitmq/demo_02_rabbitmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_03_wq/demo_03_wq.iml" filepath="$PROJECT_DIR$/demo_03_wq/demo_03_wq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_04_fanout/demo_04_fanout.iml" filepath="$PROJECT_DIR$/demo_04_fanout/demo_04_fanout.iml" />
     </modules>
   </component>
 </project>
