@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="demo_05_default_ex" />
         <module name="demo_01" />
         <module name="demo_02_rabbitmq" />
         <module name="demo_03_wq" />
@@ -13,10 +14,14 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11">
-      <module name="demo_01" target="1.5" />
-      <module name="demo_02_rabbitmq" target="1.5" />
+      <module name="demo_01" target="11" />
+      <module name="demo_02_rabbitmq" target="11" />
       <module name="demo_03_wq" target="11" />
       <module name="demo_04_fanout" target="11" />
+      <module name="demo_05_default_ex" target="11" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="PREFER_TARGET_JDK_COMPILER" value="false" />
   </component>
 </project>

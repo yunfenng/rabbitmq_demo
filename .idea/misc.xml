@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/demo_02_rabbitmq/pom.xml" />
         <option value="$PROJECT_DIR$/demo_03_wq/pom.xml" />
         <option value="$PROJECT_DIR$/demo_04_fanout/pom.xml" />
+        <option value="$PROJECT_DIR$/demo_05_default_ex/pom.xml" />
       </list>
     </option>
   </component>
