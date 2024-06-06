@@ -3,11 +3,12 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/demo_01/pom.xml" />
         <option value="$PROJECT_DIR$/demo_02_rabbitmq/pom.xml" />
         <option value="$PROJECT_DIR$/demo_03_wq/pom.xml" />
         <option value="$PROJECT_DIR$/demo_04_fanout/pom.xml" />
         <option value="$PROJECT_DIR$/demo_05_default_ex/pom.xml" />
+        <option value="$PROJECT_DIR$/demo_06_routingmode/pom.xml" />
+        <option value="$PROJECT_DIR$/demo_01/pom.xml" />
       </list>
     </option>
   </component>

@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/demo_03_wq/demo_03_wq.iml" filepath="$PROJECT_DIR$/demo_03_wq/demo_03_wq.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_04_fanout/demo_04_fanout.iml" filepath="$PROJECT_DIR$/demo_04_fanout/demo_04_fanout.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_05_default_ex/demo_05_default_ex.iml" filepath="$PROJECT_DIR$/demo_05_default_ex/demo_05_default_ex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_06_routingmode/demo_06_routingmode.iml" filepath="$PROJECT_DIR$/demo_06_routingmode/demo_06_routingmode.iml" />
     </modules>
   </component>
 </project>
