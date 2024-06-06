@@ -13,7 +13,7 @@ public class Producer {
 
     public static void main(String[] args) throws Exception {
         ConnectionFactory factory = new ConnectionFactory();
-        factory.setHost("47.103.155.255");
+        factory.setHost("XXX"); // 服务器地址
         factory.setVirtualHost("/");
         factory.setUsername("root");
         factory.setPassword("123456");
