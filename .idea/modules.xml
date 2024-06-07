@@ -9,6 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/demo_05_default_ex/demo_05_default_ex.iml" filepath="$PROJECT_DIR$/demo_05_default_ex/demo_05_default_ex.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_06_routingmode/demo_06_routingmode.iml" filepath="$PROJECT_DIR$/demo_06_routingmode/demo_06_routingmode.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_07_topicmode/demo_07_topicmode.iml" filepath="$PROJECT_DIR$/demo_07_topicmode/demo_07_topicmode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_08_spring_rabbit_xml/demo_08_spring_rabbit_xml.iml" filepath="$PROJECT_DIR$/demo_08_spring_rabbit_xml/demo_08_spring_rabbit_xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_09_spring_rabbit_xml_consumer/demo_09_spring_rabbit_xml_consumer.iml" filepath="$PROJECT_DIR$/demo_09_spring_rabbit_xml_consumer/demo_09_spring_rabbit_xml_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_10_spring_rabbit_xml_listener/demo_10_spring_rabbit_xml_listener.iml" filepath="$PROJECT_DIR$/demo_10_spring_rabbit_xml_listener/demo_10_spring_rabbit_xml_listener.iml" />
     </modules>
   </component>
 </project>

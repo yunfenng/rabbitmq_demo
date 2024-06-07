@@ -10,6 +10,9 @@
         <option value="$PROJECT_DIR$/demo_06_routingmode/pom.xml" />
         <option value="$PROJECT_DIR$/demo_01/pom.xml" />
         <option value="$PROJECT_DIR$/demo_07_topicmode/pom.xml" />
+        <option value="$PROJECT_DIR$/demo_08_spring_rabbit_xml/pom.xml" />
+        <option value="$PROJECT_DIR$/demo_09_spring_rabbit_xml_consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/demo_10_spring_rabbit_xml_listener/pom.xml" />
       </list>
     </option>
   </component>
