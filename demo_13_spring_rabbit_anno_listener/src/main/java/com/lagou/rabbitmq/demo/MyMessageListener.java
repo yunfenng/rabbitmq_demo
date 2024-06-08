@@ -2,6 +2,7 @@ package com.lagou.rabbitmq.demo;
 
 import org.springframework.amqp.core.Message;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
+import org.springframework.messaging.handler.annotation.Payload;
 import org.springframework.stereotype.Component;
 
 import java.io.UnsupportedEncodingException;
@@ -25,8 +26,13 @@ public class MyMessageListener {
      * MessageHeaders 参数类型，访问所有消息头字段
      * MessageHeaderAccessor or AmqpMessageHeaderAccessor 访问所有消息头字段
      */
+    // @RabbitListener(queues = "queue.anno")
+    // public void whenMessageCome(Message message) throws UnsupportedEncodingException {
+    //     System.out.println(new String(message.getBody(), message.getMessageProperties().getContentEncoding()));
+    // }
+
     @RabbitListener(queues = "queue.anno")
-    public void whenMessageCome(Message message) throws UnsupportedEncodingException {
-        System.out.println(new String(message.getBody(), message.getMessageProperties().getContentEncoding()));
+    public void whenMessageCome(@Payload String messageStr) {
+        System.out.println(messageStr);
     }
 }
