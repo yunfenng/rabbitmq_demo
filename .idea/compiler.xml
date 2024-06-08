@@ -15,6 +15,8 @@
         <module name="demo_07_topicmode" />
         <module name="demo_10_spring_rabbit_xml_listener" />
         <module name="demo_05_default_ex" />
+        <module name="demo_12_spring_rabbit_anno_consumer" />
+        <module name="demo_11_spring_rabbit_anno_producer" />
         <module name="demo_06_routingmode" />
       </profile>
     </annotationProcessing>
@@ -29,6 +31,8 @@
       <module name="demo_08_spring_rabbit_xml" target="11" />
       <module name="demo_09_spring_rabbit_xml_consumer" target="11" />
       <module name="demo_10_spring_rabbit_xml_listener" target="11" />
+      <module name="demo_11_spring_rabbit_anno_producer" target="11" />
+      <module name="demo_12_spring_rabbit_anno_consumer" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
