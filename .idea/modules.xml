@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/demo_10_spring_rabbit_xml_listener/demo_10_spring_rabbit_xml_listener.iml" filepath="$PROJECT_DIR$/demo_10_spring_rabbit_xml_listener/demo_10_spring_rabbit_xml_listener.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_11_spring_rabbit_anno_producer/demo_11_spring_rabbit_anno_producer.iml" filepath="$PROJECT_DIR$/demo_11_spring_rabbit_anno_producer/demo_11_spring_rabbit_anno_producer.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_12_spring_rabbit_anno_consumer/demo_12_spring_rabbit_anno_consumer.iml" filepath="$PROJECT_DIR$/demo_12_spring_rabbit_anno_consumer/demo_12_spring_rabbit_anno_consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_13_spring_rabbit_anno_listener/demo_13_spring_rabbit_anno_listener.iml" filepath="$PROJECT_DIR$/demo_13_spring_rabbit_anno_listener/demo_13_spring_rabbit_anno_listener.iml" />
     </modules>
   </component>
 </project>

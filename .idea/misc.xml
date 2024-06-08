@@ -16,6 +16,7 @@
         <option value="$PROJECT_DIR$/demo_10_spring_rabbit_anno_producer/pom.xml" />
         <option value="$PROJECT_DIR$/demo_12_spring_rabbit_anno_consumer/pom.xml" />
         <option value="$PROJECT_DIR$/demo_11_spring_rabbit_anno_producer/pom.xml" />
+        <option value="$PROJECT_DIR$/demo_13_spring_rabbit_anno_listener/pom.xml" />
       </list>
     </option>
   </component>

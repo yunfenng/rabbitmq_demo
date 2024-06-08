@@ -29,12 +29,19 @@ public class ProducerApp {
                 .setHeader("myKey", "myValue")
                 .build();
 
-        Message message = MessageBuilder
+        /*Message message = MessageBuilder
                 .withBody("你好, 世界".getBytes("gbk"))
                 .andProperties(messageProperties)
-                .build();
+                .build();*/
 
-        template.send("ex.anno.fanout", "key.anno", message);
+        for (int i = 0; i < 1000; i++) {
+            Message message = MessageBuilder
+                    .withBody(("你好, 世界" + i).getBytes("gbk"))
+                    .andProperties(messageProperties)
+                    .build();
+            template.send("ex.anno.fanout", "key.anno", message);
+        }
+
 
         context.close();
 
