@@ -13,6 +13,7 @@
         <module name="demo_14_springboot_rabbitmq" />
         <module name="demo_11_spring_rabbit_anno_producer" />
         <module name="demo_06_routingmode" />
+        <module name="demo_20_publiserconfirms_01" />
         <module name="demo_09_spring_rabbit_xml_consumer" />
         <module name="demo_15_springboot_rabbitmq_consumer" />
         <module name="demo_02_rabbitmq" />
@@ -39,6 +40,7 @@
       <module name="demo_13_spring_rabbit_anno_listener" target="11" />
       <module name="demo_14_springboot_rabbitmq" target="17" />
       <module name="demo_15_springboot_rabbitmq_consumer" target="17" />
+      <module name="demo_20_publiserconfirms_01" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
