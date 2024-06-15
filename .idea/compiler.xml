@@ -19,6 +19,7 @@
         <module name="demo_21_persistent" />
         <module name="demo_02_rabbitmq" />
         <module name="demo_08_spring_rabbit_xml" />
+        <module name="demo_22_consumerAck" />
         <module name="demo_07_topicmode" />
         <module name="demo_10_spring_rabbit_xml_listener" />
         <module name="demo_05_default_ex" />
@@ -43,6 +44,7 @@
       <module name="demo_15_springboot_rabbitmq_consumer" target="17" />
       <module name="demo_20_publiserconfirms_01" target="11" />
       <module name="demo_21_persistent" target="11" />
+      <module name="demo_22_consumerAck" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
