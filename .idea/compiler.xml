@@ -16,6 +16,7 @@
         <module name="demo_06_routingmode" />
         <module name="demo_20_publiserconfirms_01" />
         <module name="demo_09_spring_rabbit_xml_consumer" />
+        <module name="demo_24_tracing" />
         <module name="demo_15_springboot_rabbitmq_consumer" />
         <module name="demo_21_persistent" />
         <module name="demo_02_rabbitmq" />
@@ -47,6 +48,7 @@
       <module name="demo_21_persistent" target="11" />
       <module name="demo_22_consumerAck" target="11" />
       <module name="demo_23_customerQos" target="11" />
+      <module name="demo_24_tracing" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

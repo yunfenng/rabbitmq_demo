@@ -21,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/demo_21_persistent/demo_21_persistent.iml" filepath="$PROJECT_DIR$/demo_21_persistent/demo_21_persistent.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_22_consumerAck/demo_22_consumerAck.iml" filepath="$PROJECT_DIR$/demo_22_consumerAck/demo_22_consumerAck.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_23_customerQos/demo_23_customerQos.iml" filepath="$PROJECT_DIR$/demo_23_customerQos/demo_23_customerQos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_24_tracing/demo_24_tracing.iml" filepath="$PROJECT_DIR$/demo_24_tracing/demo_24_tracing.iml" />
     </modules>
   </component>
 </project>
