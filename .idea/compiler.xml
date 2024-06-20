@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="demo_01" />
         <module name="demo_13_spring_rabbit_anno_listener" />
+        <module name="demo_23_customerQos" />
         <module name="demo_03_wq" />
         <module name="demo_04_fanout" />
         <module name="demo_14_springboot_rabbitmq" />
@@ -45,6 +46,7 @@
       <module name="demo_20_publiserconfirms_01" target="11" />
       <module name="demo_21_persistent" target="11" />
       <module name="demo_22_consumerAck" target="11" />
+      <module name="demo_23_customerQos" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

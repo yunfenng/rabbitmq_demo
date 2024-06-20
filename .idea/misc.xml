@@ -23,6 +23,7 @@
         <option value="$PROJECT_DIR$/demo_20_publiserconfirms_01/pom.xml" />
         <option value="$PROJECT_DIR$/demo_21_persistent/pom.xml" />
         <option value="$PROJECT_DIR$/demo_22_consumerAck/pom.xml" />
+        <option value="$PROJECT_DIR$/demo_23_customerQos/pom.xml" />
       </list>
     </option>
   </component>

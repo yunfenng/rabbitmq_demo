@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/demo_20_publiserconfirms_01/demo_20_publiserconfirms_01.iml" filepath="$PROJECT_DIR$/demo_20_publiserconfirms_01/demo_20_publiserconfirms_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_21_persistent/demo_21_persistent.iml" filepath="$PROJECT_DIR$/demo_21_persistent/demo_21_persistent.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_22_consumerAck/demo_22_consumerAck.iml" filepath="$PROJECT_DIR$/demo_22_consumerAck/demo_22_consumerAck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_23_customerQos/demo_23_customerQos.iml" filepath="$PROJECT_DIR$/demo_23_customerQos/demo_23_customerQos.iml" />
     </modules>
   </component>
 </project>
