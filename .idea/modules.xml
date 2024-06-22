@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/demo_14_springboot_rabbitmq/demo_14_springboot_rabbitmq.iml" filepath="$PROJECT_DIR$/demo_14_springboot_rabbitmq/demo_14_springboot_rabbitmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_15_springboot_rabbitmq_consumer/demo_15_springboot_rabbitmq_consumer.iml" filepath="$PROJECT_DIR$/demo_15_springboot_rabbitmq_consumer/demo_15_springboot_rabbitmq_consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_17_ttl/demo_17_ttl.iml" filepath="$PROJECT_DIR$/demo_17_ttl/demo_17_ttl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_18_dlx/demo_18_dlx.iml" filepath="$PROJECT_DIR$/demo_18_dlx/demo_18_dlx.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_20_publiserconfirms_01/demo_20_publiserconfirms_01.iml" filepath="$PROJECT_DIR$/demo_20_publiserconfirms_01/demo_20_publiserconfirms_01.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_21_persistent/demo_21_persistent.iml" filepath="$PROJECT_DIR$/demo_21_persistent/demo_21_persistent.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo_22_consumerAck/demo_22_consumerAck.iml" filepath="$PROJECT_DIR$/demo_22_consumerAck/demo_22_consumerAck.iml" />
