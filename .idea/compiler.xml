@@ -25,12 +25,13 @@
         <module name="demo_07_topicmode" />
         <module name="demo_10_spring_rabbit_xml_listener" />
         <module name="demo_05_default_ex" />
+        <module name="demo_17_ttl" />
         <module name="demo_12_spring_rabbit_anno_consumer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="11">
-      <module name="demo_01" target="1.5" />
-      <module name="demo_02_rabbitmq" target="1.5" />
+      <module name="demo_01" target="11" />
+      <module name="demo_02_rabbitmq" target="11" />
       <module name="demo_03_wq" target="11" />
       <module name="demo_04_fanout" target="11" />
       <module name="demo_05_default_ex" target="11" />
@@ -44,6 +45,7 @@
       <module name="demo_13_spring_rabbit_anno_listener" target="11" />
       <module name="demo_14_springboot_rabbitmq" target="17" />
       <module name="demo_15_springboot_rabbitmq_consumer" target="17" />
+      <module name="demo_17_ttl" target="11" />
       <module name="demo_20_publiserconfirms_01" target="11" />
       <module name="demo_21_persistent" target="11" />
       <module name="demo_22_consumerAck" target="11" />
